@@ -1,0 +1,15 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\timv\SSI\Spaceshot\Avionics\SpaceSalmon_2.0\SpaceSalmon_2.0.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=17.11.2019|TIME=21:38:37|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=False|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=Supplier 1=Up
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=70!Comment=168!Description=235!Designator=289!Quantity=82!Manufacturer 1=115!Manufacturer Part Number 1=182!Manufacturer Lifecycle 1=144!Supplier 1=90!Supplier Part Number 1=156!Supplier Unit Price 1=140!Supplier Subtotal 1=134!Capacitance (shorthand)=160
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=70!Comment=168!Description=235!Designator=289!Quantity=82!Manufacturer 1=115!Manufacturer Part Number 1=182!Manufacturer Lifecycle 1=144!Supplier 1=90!Supplier Part Number 1=156!Supplier Unit Price 1=140!Supplier Subtotal 1=134!Capacitance (shorthand)=160|FLATVIEW=Line #=70!Comment=70!Description=97!Designator=95!Manufacturer 1=115!Manufacturer Part Number 1=182!Manufacturer Lifecycle 1=160!Supplier 1=90!Supplier Part Number 1=156!Supplier Unit Price 1=140!Supplier Subtotal 1=134!Rated Voltage=109!Model:Signal Integrity=-1|CONSOLIDATEDVIEW=Line #=70!Comment=70!Description=97!Designator=95!Quantity=82!Manufacturer 1=115!Manufacturer Part Number 1=182!Manufacturer Lifecycle 1=160!Supplier 1=90!Supplier Part Number 1=156!Supplier Unit Price 1=140!Supplier Subtotal 1=134
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLIERS=Samtec!Digi-Key!Allied Electronics!Arrow!Avnet!Farnell!Future Electronics!Mouser!Newark!RSComponents|USESUPPLIERORDER=True
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
