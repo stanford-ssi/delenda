@@ -1,4 +1,4 @@
-[Design]
+ï»¿[Design]
 Version=1.0
 HierarchyMode=4
 ChannelRoomNamingStyle=0
@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=B5548D1F-5285-4F3D-94B8-8C4399DD80D1
+VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71
+ReleaseVaultName=Stanford Student Space Initiative
+ItemGUID=B5548D1F-5285-4F3D-94B8-8C4399DD80D1
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -910,36 +913,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1765,15 +1738,15 @@ ParameterName50=Current
 ParameterUpdate50=1
 ParameterName51=Current - Average Rectified (Io)
 ParameterUpdate51=1
-ParameterName52=Current - Continuous Drain (Id) @ 25° C
+ParameterName52=Current - Continuous Drain (Id) @ 25Â° C
 ParameterUpdate52=1
-ParameterName53=Current - Continuous Drain (Id) @ 25°C
+ParameterName53=Current - Continuous Drain (Id) @ 25Â°C
 ParameterUpdate53=1
 ParameterName54=Current - Limit (Min)
 ParameterUpdate54=1
 ParameterName55=Current - Output
 ParameterUpdate55=1
-ParameterName56=Current - Peak Pulse (10/1000µs)
+ParameterName56=Current - Peak Pulse (10/1000Âµs)
 ParameterUpdate56=1
 ParameterName57=Current - Reverse Leakage @ Vr
 ParameterUpdate57=1
